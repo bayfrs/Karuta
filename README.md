@@ -43,23 +43,27 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## For Termux
 ```ts
 pkg update && upgrade 
+pkg install git
 pkg install nodejs 
 pkg install ffmpeg 
 pkg install imagemagick 
+pkg install python
 termux-setup-storage 
-git clone https://github.com/riychdwayne/Chika-Md.git
+git clone https://github.com/bayfrs/Karuta.git
+cd Karuta
+python Karuta.py
 unzip karuta.zip
 cd karuta 
 npm start
 ```
 
 ## Edit file
-<big><b>buka folder </b></big>(`/karuta/naimi.js/`)
-<br/><big><b>cari dan ganti dengan nomer owner</b></big>
+<b>buka folder </b>(`/karuta/naimi.js/`)
+<br/><b>cari dan ganti dengan nomer owner</b>
 ```ts
 6283149431725@s.whatsapp.net
 ```
-<big><b>buka folder</b></big>
+<b>buka folder</b>
 (`/src/settings.js`)
 ```ts
 {
