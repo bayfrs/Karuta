@@ -53,7 +53,14 @@ npm start
 ```
 
 ## Edit file
-`/src/settings.js`
+<big><b>buka folder </b></big>(`/karuta/naimi.js/`)
+<br/><big><b>cari</b></big>
+
+```ts
+6285811597011@s.whatsapp.net
+```
+<big><b>buka folder</b></big>
+(`/src/settings.js`)
 ```ts
 {
      "ownerNumber": ["6283149431725@s.whatsapp.net"],
