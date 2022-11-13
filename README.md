@@ -53,23 +53,21 @@ npm start
 ```
 
 ## Edit file
-`./settings.js`
+`/src/settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
-global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+{
+     "ownerNumber": ["6283149431725@s.whatsapp.net"],
+     "owner": "6283149431725",
+     "owner1": ["6283149431725"],
+     "packname": "KarutaMD",
+     "author": "Karuta",
+     "sessionName": "karuta",
+     "deskripsi": "Jangan chat kalo gk penting",
+     "ownerName": "Karuta",
+     "prefix": "#",
+     "botName": "Karuta"
+}
+
 ```
 
 ## Donate
