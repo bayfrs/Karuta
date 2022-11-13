@@ -58,13 +58,20 @@ npm start
 ```
 
 ## Edit file
-<b>buka folder </b>(`/karuta/naimi.js/`)
-<br/><b>cari dan ganti dengan nomer owner</b>
+<b>1.</b> Pertama
+```ts
+cd
+cd /Karuta/karuta/
+
+```
+<b>2.</b> Kedua<br/>
+buka file (`nano naimi.js`)
+<br/>cari dan ganti dengan nomer owner
 ```ts
 6283149431725@s.whatsapp.net
 ```
-<b>buka folder</b>
-(`/src/settings.js`)
+<b>3.</b>Ketiga<br/>
+buka file (`nano /src/settings.js`)
 ```ts
 {
      "ownerNumber": ["6283149431725@s.whatsapp.net"],
