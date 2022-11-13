@@ -54,10 +54,9 @@ npm start
 
 ## Edit file
 <big><b>buka folder </b></big>(`/karuta/naimi.js/`)
-<br/><big><b>cari</b></big>
-
+<br/><big><b>cari dan ganti dengan nomer owner</b></big>
 ```ts
-6285811597011@s.whatsapp.net
+6283149431725@s.whatsapp.net
 ```
 <big><b>buka folder</b></big>
 (`/src/settings.js`)
