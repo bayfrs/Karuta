@@ -72,28 +72,5 @@ global.author = 'RIY'
 global.sessionName = 'chika'
 ```
 
-## ```HOW TO DEPLOY```
-
-[`Click Here For Tutorial`](https://youtu.be/U1suj4wuWvc)<br>
-
-----------
-
-<p align="center">
-  <a href="https://youtu.be/U1suj4wuWvc"><img src="https://telegra.ph/file/4e8679b0d4677be9a2995.jpg" />
-</p>
-
 ## Donate
-- [Dana](https://wa.me/6281575886399?text=Bang+mau+donasi)
-- [Gopay](https://wa.me/6281575886399?text=Bang+mau+donasi)
-
-# Official Group
-- [Group 1](https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw)
-- [Group 2](https://chat.whatsapp.com/L3l8lpRa7SD9eLC58YAa0i)
-- [Group 3](https://chat.whatsapp.com/LQO7wLJ5SY0E5fPsa7jaL8)
-
-# Thanks to
-- [Dika](https://github.com/DikaArdnt) <br> 
-- [Fatih](https://github.com/FatihArridho) <br> 
-- [Zeeone](https://github.com/zeeone-ofc) <br> 
-- [Yoga](https://github.com/YogGanz) <br> 
-- [Riy](https://github.com/riychdwayne) <br> 
+- [Trakter](https://wa.me/6281575886399?text=Bang+mau+donasi)
