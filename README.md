@@ -42,13 +42,14 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 ## For Termux
 ```ts
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs git ffmpeg libwebp imagemagick
+pkg update && upgrade 
+pkg install nodejs 
+pkg install ffmpeg 
+pkg install imagemagick 
+termux-setup-storage 
 git clone https://github.com/riychdwayne/Chika-Md.git
-cd Chika-Md
-pkg install yarn
-yarn
+unzip karuta.zip
+cd karuta 
 npm start
 ```
 
