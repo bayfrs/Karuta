@@ -89,4 +89,4 @@ buka file (`nano /src/settings.js`)
 ```
 
 ## Donate
-- [Trakter](https://wa.me/6281575886399?text=Bang+mau+donasi)
+- [Trakter](https://l.instagram.com/?u=https%3A%2F%2Ftrakteer.id%2Fbaybae%3Ffbclid%3DPAAabLJ0dLeAsFB7bBB0_Uw8ykDLuUGWpYsUe2hbXln7W4VN-sf9OSxbD04i8&e=ATPdHFhEj3NkLb_PxLDlO-lPDcxnP7QdC6ipLNC6BqQLnznyYJ3RzaxZJwkte0Bn9e5kq5cwVLfKpxUMZkD7KAA&s=1)
