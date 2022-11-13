@@ -1,4 +1,4 @@
-# Karuta
+
 <p align="center">
 <img src="https://telegra.ph/file/a33a0742bd82075087684.jpg" alt="Karuta" width="100"/>
 
