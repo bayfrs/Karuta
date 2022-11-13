@@ -26,7 +26,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
