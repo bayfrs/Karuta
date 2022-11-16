@@ -51,10 +51,10 @@ pkg install python
 pip install gdown
 termux-setup-storage 
 git clone https://github.com/bayfrs/Karuta.git
-cd Gendul
+cd Karuta
 python Karuta.py
 unzip karuta.zip
-cd karuta 
+cd Gendul 
 npm start
 ```
 
