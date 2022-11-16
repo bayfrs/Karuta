@@ -51,7 +51,7 @@ pkg install python
 pip install gdown
 termux-setup-storage 
 git clone https://github.com/bayfrs/Karuta.git
-cd Karuta
+cd Gendul
 python Karuta.py
 unzip karuta.zip
 cd karuta 
